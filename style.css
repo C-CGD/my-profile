@@ -1,0 +1,45 @@
+body {
+	background: #D9CBB4;
+}
+
+.img-circle { 
+	border-radius: 60%; 
+}
+
+h1{ 
+	font-size: 30px;
+	color: #D6E1EF;
+	font-family : 'Anton', sans-serif ;
+}
+
+<p>{ 
+	font-size: 50px;
+ }
+
+
+ .list-inline{
+ 	list-style: none;
+ 	padding: 0;
+ }
+
+.container{
+	font-family:;
+	width: 1000px;
+	margin:  0 auto;
+	text-align: center;
+;}
+.card-white{
+	background-color:#22587B;
+	padding: 30px;
+	margin: 30px;
+	border-radius: 4px;
+	box-shadow: 10px 10px 20px #5D5380;
+
+}
+
+.card {
+	display:  flex;
+	align-items:  center;
+}
+
+
